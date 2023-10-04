@@ -1,4 +1,6 @@
 ### Hi there 👋
+# 💫 About Me:
+- I’m Arjun Bhatia<br>- 👀 I’m interested in building and scaling Data as a Service(DaaS) and Model as a Service(MaaS) Products<br>- 🌱 I’m currently learning Advance Data Engineering <br>- 📫 Reach me at: <a href = "mailto: bhatia.arj@northeastern.edu">bhatia.arj@northeastern.edu</a>
 
 <a href="https://app.daily.dev/arjunbhatia"><img src="https://api.daily.dev/devcards/0449cdb570934c09904670a191320acb.png?r=dkg" width="400" alt="Arjun Bhatia's Dev Card"/></a>
 
